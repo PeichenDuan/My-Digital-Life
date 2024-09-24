@@ -1,4 +1,4 @@
-My-Digital-Life（我的数字生命）使用说明
+My-Digital-Life（我的数字生命）脚本使用说明
 
 一、写在前面
 
