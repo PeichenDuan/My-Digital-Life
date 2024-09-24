@@ -170,7 +170,7 @@ API的获取：
 最后引用《海上钢琴师》的台词作为结尾————
 
     "Take a piano.
-    The keys begin,the keys end.
+    The keys begin, the keys end.
     You know there are eighty-eight of them， nobody can tell you any difference.
     They are not infinite.
     You are infinite.
